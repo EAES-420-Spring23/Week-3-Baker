@@ -20,7 +20,7 @@ There are 123 earthquakes in the dataset.
 
 ### Exercise 2
 
-Remove this text, and add your answer for Exercise 2 here.
+There are 7 variables in the dataset. 
 
 ### Exercise 3
 
