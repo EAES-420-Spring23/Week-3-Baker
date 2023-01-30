@@ -1,0 +1,41 @@
+HW 01 - Earthquakes
+================
+Vincent Baker
+1/30/23
+
+## Load packages and data
+
+``` r
+library(tidyverse)
+library(openintro)
+```
+
+## Exercises
+
+### Exercise 1
+
+There are 123 earthquakes in the dataset.
+
+### Exercise 2
+
+Remove this text, and add your answer for Exercise 2 here.
+
+### Exercise 3
+
+Remove this text, and add your answer for Exercise 3 here.
+
+### Exercise 4
+
+Remove this text, and add your answer for Exercise 4 here.
+
+### Exercise 5
+
+Remove this text, and add your answer for Exercise 5 here.
+
+### Exercise 6
+
+Remove this text, and add your answer for Exercise 6 here.
+
+### Exercise 7
+
+Remove this text, and add your answer for Exercise 7 here.
