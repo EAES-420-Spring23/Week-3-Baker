@@ -16,7 +16,7 @@ library(openintro)
 
 ### Exercise 1
 
-There are \_\_\_ earthquakes in the dataset.
+There are 123 earthquakes in the dataset.
 
 ### Exercise 2
 
