@@ -1,7 +1,7 @@
 ---
 title: "HW 01 - Earthquakes"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Vincent Baker"
+date: "1/30/23"
 output: github_document
 ---
 
