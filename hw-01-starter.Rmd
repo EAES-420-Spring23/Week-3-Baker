@@ -24,7 +24,12 @@ There are 7 variables in the dataset.
 
 ### Exercise 3
 
-Remove this text, and add your answer for Exercise 3 here.
+```{r}
+earthquakes %>%
+  count(region, sort = TRUE)
+```
+
+Turkey, Iran, and China have experienced the most notable earthquakes in the 20th century. 
 
 ### Exercise 4
 
