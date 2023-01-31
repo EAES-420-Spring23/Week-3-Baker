@@ -43,7 +43,7 @@ This dataset is now arranged by the Richter Scale (earthquake intensity).
 
 ### Exercise 5
 
-Remove this text, and add your answer for Exercise 5 here.
+There seems to be no relationship between the earthquake magnitude and year of the 20th century. The data shows that magnitude varies throughout the 20th century and many of the values are close to Magnitude 7. 
 
 ### Exercise 6
 
