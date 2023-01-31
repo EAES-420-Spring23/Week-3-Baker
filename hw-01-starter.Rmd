@@ -47,7 +47,7 @@ There seems to be no relationship between the earthquake magnitude and year of t
 
 ### Exercise 6
 
-Remove this text, and add your answer for Exercise 6 here.
+You could probably predict the death toll by just the earthquake magnitude, but that alone might not be very reliable because, for example, Peru experienced a Magnitude 8 earthquake and had a high death toll around the late 60s, but if you look at China, the earthquake after 1925 created far less casualties than the one after 1975, and both experienced closed to a Magnitude 7.5 earthquake. 
 
 ### Exercise 7
 
