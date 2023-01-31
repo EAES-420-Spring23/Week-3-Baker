@@ -39,7 +39,7 @@ earthquakes %>%
   slice_max(n, n = 5)
 arrange(earthquakes, richter, .by_group = TRUE)
 ```
-This dataset is now arranged by the Richter scale (earthquake intensity).
+This dataset is now arranged by the Richter Scale (earthquake intensity).
 
 ### Exercise 5
 
