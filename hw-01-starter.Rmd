@@ -33,7 +33,13 @@ Turkey, Iran, and China have experienced the most notable earthquakes in the 20t
 
 ### Exercise 4
 
-Remove this text, and add your answer for Exercise 4 here.
+```{r earthquakes-top10, eval=TRUE}
+earthquakes %>%
+  count(richter, sort = TRUE) %>%
+  slice_max(n, n = 5)
+arrange(earthquakes, richter, .by_group = TRUE)
+```
+This dataset is now arranged by the Richter scale (earthquake intensity).
 
 ### Exercise 5
 
