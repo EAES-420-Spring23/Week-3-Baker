@@ -51,4 +51,4 @@ You could probably predict the death toll by just the earthquake magnitude, but 
 
 ### Exercise 7
 
-Remove this text, and add your answer for Exercise 7 here.
+The final visualization makes me feel less confident about earthquake magnitude and death toll because, again, China experienced Magnitude 7.5 and one >7.5 earthquakes, and the one that was greater had less casualties. 
