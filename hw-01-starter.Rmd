@@ -4,7 +4,7 @@ author: "Vincent Baker"
 date: "1/30/23"
 output: github_document
 ---
-
+#EX 7 INTERP WRONG
 ## Load packages and data
 
 ```{r load-packages, message = FALSE}
