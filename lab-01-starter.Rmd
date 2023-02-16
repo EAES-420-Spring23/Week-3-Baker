@@ -6,7 +6,7 @@ output: github_document
 editor_options: 
   chunk_output_type: console
 ---
-
+#PROMPTS NOT ERASED, EX 8 INCORRECT
 ## Load packages and data
 
 ```{r load-packages, message=FALSE} 
